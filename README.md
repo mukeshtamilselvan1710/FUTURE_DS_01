@@ -35,4 +35,30 @@ Skills Developed
 * Importing and managing Excel/CSV datasets in Power BI
 
 ---
+Task Overview
 
+In this task, I analyzed social media advertising data from platforms such as Facebook and Instagram to evaluate the effectiveness of digital marketing campaigns. The objective was to track key performance metrics and generate insights that help optimize campaign performance and improve return on investment.
+
+The analysis focused on answering important marketing questions, including:
+How well are ad campaigns performing?
+What is the level of user engagement across campaigns?
+How effective are campaigns in terms of CTR (Click-Through Rate) and ROI (Return on Investment)?
+This task emphasized marketing analytics, performance evaluation, and dashboard storytelling, without the need for coding.
+
+ Work Performed
+Cleaned and prepared social media ad campaign data from Excel/Google Sheets
+Analyzed campaign performance metrics such as impressions, clicks, engagement, CTR, and ROI
+Built an interactive performance-tracking dashboard to compare and monitor campaigns
+Highlighted insights to support campaign optimization and data-driven marketing decisions
+
+Skills Developed
+Marketing and performance analytics
+Campaign evaluation and optimization techniques
+Dashboard storytelling for business and marketing insights
+KPI analysis (Engagement, CTR, ROI)
+Data preparation and analysis using spreadsheets
+
+Tools Used
+Power BI
+Google Looker Studio
+Excel / Google Sheets
