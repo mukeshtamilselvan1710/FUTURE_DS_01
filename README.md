@@ -35,6 +35,7 @@ Skills Developed
 * Importing and managing Excel/CSV datasets in Power BI
 
 ---
+Task 2: Social Media Campaign Performance Tracker
 Task Overview
 
 In this task, I analyzed social media advertising data from platforms such as Facebook and Instagram to evaluate the effectiveness of digital marketing campaigns. The objective was to track key performance metrics and generate insights that help optimize campaign performance and improve return on investment.
