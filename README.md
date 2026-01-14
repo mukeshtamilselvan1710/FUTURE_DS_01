@@ -63,3 +63,33 @@ Tools Used
 Power BI
 Google Looker Studio
 Excel / Google Sheets
+
+Task 3: Student Event Feedback Analysis
+Task Overview
+In this task, I analyzed student event feedback collected through surveys to identify overall satisfaction levels and uncover key trends in participant opinions. The objective was to use survey data to evaluate event effectiveness and provide actionable suggestions for future improvements.
+The analysis focused on answering important questions such as:
+What is the overall sentiment of student feedback?
+Which aspects of the event received positive or negative responses?
+What improvements can be made based on participant feedback?
+This task emphasized data cleaning, sentiment analysis, and extracting insights from textual survey responses using natural language processing techniques.
+
+Work Performed
+Cleaned and preprocessed survey data collected via Google Forms (CSV)
+Performed sentiment analysis on textual feedback using TextBlob / VADER
+Analyzed satisfaction trends and common themes in student responses
+Visualized feedback insights using charts and plots
+Summarized findings and proposed data-driven recommendations for event improvement
+
+Skills Developed
+Data cleaning and preprocessing
+Sentiment analysis and basic NLP techniques
+Survey data analysis and insight extraction
+Data visualization and charting
+Interpreting qualitative feedback for decision-making
+
+Tools Used
+Google Colab
+Python (pandas)
+TextBlob / VADER
+Seaborn
+Google Forms (CSV data)
